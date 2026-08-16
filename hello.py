@@ -1,2 +1,6 @@
 print('hello world!')
-
+print('hello Daniel!')
+print('Welcome')
+print('Hello Aidan')
+print('Hello Curtis')
+print('Hello William')
